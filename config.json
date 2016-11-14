@@ -1,0 +1,25 @@
+{
+  "responseTimeout": "3000",
+  "excludedUsers": [],
+  "reportChannel": "standup",
+  "questions": [
+    {
+      "questionType": "repeated-followup",
+      "question": "How many ventures did you see?",
+      "followups": [
+        "What's up with your {ordinal} venture?",
+        "Any blockers for them?"
+      ]
+    },
+    "What're you working on? Any blockers?"
+  ],
+  "openings": [
+    "Hello"
+  ],
+  "closings": [
+    "Good Bye"
+  ],
+  "acknowledgements": [
+    "Thanks"
+  ]
+}
