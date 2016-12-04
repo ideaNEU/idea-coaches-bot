@@ -1,11 +1,11 @@
 {
-  "responseTimeout": "3000",
+  "responseTimeout": "2000",
   "excludedUsers": [],
   "reportChannel": "standup",
   "questions": [
     {
       "questionType": "repeated-followup",
-      "question": "How many ventures did you see?",
+      "question": "How many ventures are you currently seeing?",
       "followups": [
         "What's up with your {ordinal} venture?",
         "Any blockers for them?"
