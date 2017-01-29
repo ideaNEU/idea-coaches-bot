@@ -7,7 +7,7 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-slack": "^4.1.0",
-    "idea-standupbot": "https://github.com/ideaNEU/idea-standupbot/tarball/0.1.7"
+    "idea-standupbot": "https://github.com/ideaNEU/idea-standupbot/archive/0.1.8.tar.gz"
   },
   "scripts": {
     "start": "./bin/hubot -a slack"
